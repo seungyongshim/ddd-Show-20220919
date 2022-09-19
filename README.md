@@ -29,7 +29,7 @@ w/ Actor Model
 ---
 ## **Actor Model**
 
-![bg 60%](img/actor.drawio.png)
+![bg 70%](img/actor.drawio.png)
 
 ---
 ## Slide Two
