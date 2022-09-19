@@ -19,7 +19,7 @@ w/ Actor Model
 
 
 - 전략적 설계 (Strategic Design)
-- 전술적 설계 
+- 전술적 설계 (Tactical Design)
    - 마이크로서비스 (MSA)
    - 엔터티 (Entity)
    - 값 개체 (Value Object)
@@ -27,9 +27,54 @@ w/ Actor Model
    - 팩토리 (Factory)
    - 저장소 (Repository)
 ---
+
+## **마이크로서비스 (MSA)**
+<!-- _footer: "" -->
+
+
+- 바운디드 컨텍스트로 분리된 서비스
+- 컨테이너 오케스트레이션이 필요 (K8s)
+
+---
+
+
+## **엔터티 (Entity)**
+<!-- _footer: "" -->
+
+
+- 식별자 (ID)
+- 다른 엔터티의 ID와 VO를 속성으로 가짐
+- 행위가 속성보다 중요
+
+---
+
+## **값 개체 (Value Object)**
+<!-- _footer: "" -->
+
+
+- 불변
+- 속성기반 비교
+
+
+---
+
+## **집계 (Aggregate)**
+<!-- 
+_footer: "[1] 도메인 주도 설계 첫걸음"
+-->
+
+
+- 집계는 엔터티(Entity) 이다. <sup>[1]</sup>
+- DB 트랜젝션의 단위
+- unit of work 단위
+
+
+---
+
+
 ## **Actor Model**
 
-![bg 70%](img/actor.drawio.png)
+![bg 50%](img/actor.drawio.png)
 
 ---
 ## Slide Two
