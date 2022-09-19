@@ -1,7 +1,6 @@
 ---
 theme: gaia
-_class: 
- - lead
+_class: lead
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 marp: true
@@ -33,7 +32,3 @@ w/ Actor Model
 - Cat
 - Frog
 ---
-
-## How to write slides
-
-Split pages by horizontal ruler (`---`). It's very simple! 
