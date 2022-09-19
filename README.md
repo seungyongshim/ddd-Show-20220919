@@ -4,7 +4,6 @@ _class: lead
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 marp: true
-headingDivider: 1
 paginate: true
 ---
 
