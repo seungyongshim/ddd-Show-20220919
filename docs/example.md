@@ -1,18 +1,23 @@
 ---
+theme: gaia
+_class: lead
+backgroundColor: #fff
+backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 marp: true
 ---
 
-Title
+**Domain Driven Design**
+w/ Actor Model
 =====
 
 ---
 
-## Slide One
+## Domain Driven Design
+<!-- _footer: "1. www.google.com" -->
 
-* Apple
-* Banana
-* Carrot
 
+* 전략적 설계 (Strategic Design)
+* 전술적 설계 
 ---
 
 ## Slide Two
@@ -21,3 +26,20 @@ Title
 - Cat
 - Frog
 
+---
+
+# How to write slides
+
+Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
+
+```markdown
+# Slide 1
+
+foobar
+
+---
+
+# Slide 2
+
+foobar
+```
