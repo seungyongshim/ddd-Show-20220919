@@ -18,12 +18,12 @@ w/ Actor Model
 <!-- _footer: "" -->
 
 
-* 전략적 설계 (Strategic Design)
-* 전술적 설계 
-   * 엔티티(Entity)
-   * 값 개체(Value Object)
-   * 집계(Aggreagate)
-   * 
+- 전략적 설계 (Strategic Design)
+- 전술적 설계 
+   - 엔티티(Entity)
+   - 값 개체(Value Object)
+   - 집계(Aggreagate)
+   - 
 ---
 
 ## Slide Two
