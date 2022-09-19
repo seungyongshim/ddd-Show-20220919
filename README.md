@@ -27,9 +27,9 @@ w/ Actor Model
    - 팩토리 (Factory)
    - 저장소 (Repository)
 ---
-## Actor Model
+## **Actor Model**
 
-<center>![](img/actor.drawio.png)</center>
+![bg 60%](img/actor.drawio.png)
 
 ---
 ## Slide Two
