@@ -39,7 +39,7 @@ w/ Actor Model
 ---
 
 ## **값 개체 (Value Object)**
-<!-- _footer: "" -->
+<!-- _footer: "https://martinfowler.com/bliki/ValueObject.html" -->
 
 
 - 불변
